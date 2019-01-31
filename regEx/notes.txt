@@ -1,0 +1,6 @@
+regEx(regular expressions):
+
+    -sequence of characters that defines a specific search pattern
+     which we can match and or substitute patterns inside a text with least amount of code.
+
+    -a sequence of characters that is a search pattern (can be a 'year', an 'ID', an 'Email' etc.)
